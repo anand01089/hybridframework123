@@ -17,5 +17,9 @@ import com.learn.automation.pages.Loginpage;
 public class SampleTest extends BaseClass {
 	
 //sample test is being written	
+	@Test
+	public void test() {
+		System.out.println("sample test is added");
+	}
 
 }
